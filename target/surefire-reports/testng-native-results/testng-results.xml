@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-29T07:19:40Z" name="Surefire suite" finished-at="2023-09-29T07:19:53Z" duration-ms="13236">
+    <groups>
+    </groups>
+    <test started-at="2023-09-29T07:19:40Z" name="Surefire test" finished-at="2023-09-29T07:19:53Z" duration-ms="13236">
+      <class name="Maven_Testng.Maven_Testng1.NewTest">
+        <test-method signature="checkbox()[pri:0, instance:Maven_Testng.Maven_Testng1.NewTest@3301500b]" started-at="2023-09-29T14:19:40Z" name="checkbox" finished-at="2023-09-29T14:19:50Z" duration-ms="9999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox -->
+        <test-method signature="loginBlaze()[pri:0, instance:Maven_Testng.Maven_Testng1.NewTest@3301500b]" started-at="2023-09-29T14:19:50Z" name="loginBlaze" finished-at="2023-09-29T14:19:53Z" duration-ms="3223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBlaze -->
+      </class> <!-- Maven_Testng.Maven_Testng1.NewTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-29T14:11:32 ICT" name="Default suite" finished-at="2023-09-29T14:11:45 ICT" duration-ms="13807">
+    <groups>
+    </groups>
+    <test started-at="2023-09-29T14:11:32 ICT" name="Default test" finished-at="2023-09-29T14:11:45 ICT" duration-ms="13807">
+      <class name="Maven_Testng.Maven_Testng1.NewTest">
+        <test-method signature="checkbox()[pri:0, instance:Maven_Testng.Maven_Testng1.NewTest@1bfe3203]" started-at="2023-09-29T14:11:32 ICT" name="checkbox" finished-at="2023-09-29T14:11:42 ICT" duration-ms="10382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox -->
+        <test-method signature="loginBlaze()[pri:0, instance:Maven_Testng.Maven_Testng1.NewTest@1bfe3203]" started-at="2023-09-29T14:11:42 ICT" name="loginBlaze" finished-at="2023-09-29T14:11:45 ICT" duration-ms="3383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBlaze -->
+      </class> <!-- Maven_Testng.Maven_Testng1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
